@@ -1,9 +1,6 @@
-# ============================================================
-# VIRTUAL TOURISM MANUSCRIPT EXPERIMENTS + XAI
-# ============================================================
-
-# Install if needed:
-# pip install pandas numpy scikit-learn xgboost lightgbm optuna shap matplotlib openpyxl
+# ==========================
+# VIRTUAL TOURISM MANUSCRIPT 
+# ==========================
 
 import os
 import warnings
