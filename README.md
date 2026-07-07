@@ -1,4 +1,6 @@
-Name of the manuscritp: An Explainable Machine Learning Framework for Predicting Travel Intention in Virtual Tourism: Evidence from Da Nang, Vietnam
+</> Markdown
+
+# An Explainable Machine Learning Framework for Predicting Travel Intention in Virtual Tourism: Evidence from Da Nang, Vietnam #
 
 Authors: Jenny Morales Brito, Fabián Silva-Aravena, Miguel Morales-Beltrán
 
