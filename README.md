@@ -2,9 +2,14 @@
 
 # An Explainable Machine Learning Framework for Predicting Travel Intention in Virtual Tourism: Evidence from Da Nang, Vietnam #
 
-Authors: Jenny Morales Brito, Fabián Silva-Aravena, Miguel Morales-Beltrán
+**Submission ID:** 10756  
 
-Submission ID:10756
+**Authors:**
+- Jenny Morales Brito
+- Fabián Silva-Aravena
+- Miguel Morales-Beltrán
+
+---
 
 Full description of the file: Virtual tourism is transforming the way users explore and evaluate travel destinations, yet accurately predicting
 the intention to visit after engaging in virtual experiences remains a challenge. Existing approaches often lack predictive accuracy and interpretability, limiting their application in tourism decision
