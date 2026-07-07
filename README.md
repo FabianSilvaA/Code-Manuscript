@@ -1,3 +1,8 @@
+This repository contains all source codes and datasets required to reproduce the computational experiments, machine learning models, statistical analyses and numerical results presented in the manuscript.
+
+The repository has been organized to facilitate replication of the methodology and results by other researchers.
+
+
 # An Explainable Machine Learning Framework for Predicting Travel Intention in Virtual Tourism: Evidence from Da Nang, Vietnam #
 
 **Submission ID:** 10756  
