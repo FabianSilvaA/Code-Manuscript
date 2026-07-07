@@ -15,7 +15,7 @@ This repository contains all scripts required to reproduce the simulation and nu
 |---|---|
 | `Code-Manuscript/` | Folder containing the source code used in the manuscript. |
 | `README.md` | Description of the repository and manuscript information. |
-| `VR_Experience_Raw_Data.xlsx` | Raw Data set. |
+| `VR_Experience_Raw_Data.xlsx` | Raw data set. |
 ---
 
 ## 📄 Required Files
