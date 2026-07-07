@@ -16,7 +16,7 @@ This repository contains all scripts required to reproduce the simulation and nu
 |---|---|
 | `Code-Manuscript/` | Folder containing the source code used in the manuscript. |
 | `README.md` | Description of the repository and manuscript information. |
-
+| `Raw Data` | Data Set. |
 ---
 
 ## 📄 Required Files
@@ -37,4 +37,4 @@ This repository contains all scripts required to reproduce the simulation and nu
 
 For questions or replication of results:
 
-fabian.silva@ucm.cl
+fasilva@ucm.cl
