@@ -1,0 +1,11 @@
+Python 3.10 or later.
+
+Required packages:
+
+- numpy
+- pandas
+- scikit-learn
+- matplotlib
+- shap
+- xgboost
+- lightgbm
