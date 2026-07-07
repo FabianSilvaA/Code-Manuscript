@@ -1,6 +1,6 @@
-This repository contains all source codes and datasets required to reproduce the computational experiments, machine learning models, statistical analyses and numerical results presented in the manuscript.
+This repository contains all source code and datasets required to reproduce the computational experiments, machine learning analyses, statistical evaluations, figures, tables, and numerical results presented in the manuscript.
 
-The repository has been organized to facilitate replication of the methodology and results by other researchers.
+The repository has been organized to facilitate the replication of the proposed methodology and experimental results by other researchers.
 
 
 # An Explainable Machine Learning Framework for Predicting Travel Intention in Virtual Tourism: Evidence from Da Nang, Vietnam #
@@ -19,7 +19,7 @@ Miguel Morales-Beltrán¹
 Universidad Católica del Maule,
 Talca, Chile
 
-## 📁 Included Scripts
+## 📁 Repository Contents
 
 This repository contains all scripts required to reproduce the simulation and numerical results presented in the article.
 
@@ -29,12 +29,16 @@ This repository contains all scripts required to reproduce the simulation and nu
 | `README.md` | Provides a description of the repository, manuscript information, software requirements, and instructions for reproducing the reported results. |
 | `VR_Experience_Raw_Data.xlsx` | Original dataset used as input for the computational experiments described in the manuscript. |
 
-## 📄 Required Files
+## ▶ Reproducing the Results
 
-- All scripts are available inside the `Code-Manuscript` folder.
-- Input datasets must be placed in the same folder as the scripts, when required.
+To reproduce the experiments reported in the manuscript:
 
----
+1. Clone or download this repository.
+2. Install the required Python packages.
+3. Ensure that `VR_Experience_Raw_Data.xlsx` is located in the same directory as the scripts.
+4. Execute the Python script contained in the `Code-Manuscript` folder.
+
+The provided code reproduces the computational experiments, machine learning analyses, statistical evaluations, figures, and numerical results reported in the manuscript.
 
 ## 💻 Requirements
 
@@ -45,6 +49,12 @@ This repository contains all scripts required to reproduce the simulation and nu
 
 ## 📬 Contact
 
-For questions or replication of results:
+For questions regarding the repository or reproduction of the results:
 
-fasilva@ucm.cl
+Fabián Silva-Aravena
+
+Universidad Católica del Maule
+
+Talca, Chile
+
+Email: fasilva@ucm.cl
