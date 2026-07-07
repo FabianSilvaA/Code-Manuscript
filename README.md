@@ -3,9 +3,15 @@
 **Submission ID:** 10756  
 
 **Authors:**
-- Jenny Morales Brito
-- Fabián Silva-Aravena
-- Miguel Morales-Beltrán
+Jenny Morales Brito¹
+
+Fabián Silva-Aravena¹
+
+Miguel Morales-Beltrán¹
+
+¹ Facultad de Ciencias Sociales y Económicas,
+Universidad Católica del Maule,
+Talca, Chile
 
 ## 📁 Included Scripts
 
