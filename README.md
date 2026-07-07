@@ -7,7 +7,6 @@
 - Fabián Silva-Aravena
 - Miguel Morales-Beltrán
 
--
 ## 📁 Included Scripts
 
 This repository contains all scripts required to reproduce the simulation and numerical results presented in the article.
