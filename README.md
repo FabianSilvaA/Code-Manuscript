@@ -35,7 +35,7 @@ To reproduce the experiments reported in the manuscript:
 
 1. Clone or download this repository.
 2. Install the required Python packages.
-3. Ensure that `VR_Experience_Raw_Data.xlsx` is located in the same directory as the scripts.
+3. Ensure that `VR_Experience_Raw_Data.xlsx` is located in the root directory of the repository.
 4. Execute the Python script(s) contained in the `Code-Manuscript` folder.
 
 The provided code reproduces the computational experiments, machine learning analyses, statistical evaluations, figures, and numerical results reported in the manuscript.
