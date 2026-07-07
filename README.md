@@ -1,6 +1,6 @@
 This repository contains all source code and datasets required to reproduce the computational experiments, machine learning analyses, statistical evaluations, figures, tables, and numerical results presented in the manuscript.
 
-The repository has been organized to facilitate the replication of the proposed methodology and experimental results by other researchers.
+It has been organized to facilitate the replication and verification of the proposed methodology and experimental results by other researchers.
 
 
 # An Explainable Machine Learning Framework for Predicting Travel Intention in Virtual Tourism: Evidence from Da Nang, Vietnam #
@@ -21,7 +21,7 @@ Talca, Chile
 
 ## 📁 Repository Contents
 
-This repository contains all scripts required to reproduce the simulation and numerical results presented in the article.
+This repository contains all files required to reproduce the experiments and numerical results presented in the manuscript.
 
 | File | Description |
 |------|-------------|
@@ -36,22 +36,33 @@ To reproduce the experiments reported in the manuscript:
 1. Clone or download this repository.
 2. Install the required Python packages.
 3. Ensure that `VR_Experience_Raw_Data.xlsx` is located in the same directory as the scripts.
-4. Execute the Python script contained in the `Code-Manuscript` folder.
+4. Execute the Python script(s) contained in the `Code-Manuscript` folder.
 
 The provided code reproduces the computational experiments, machine learning analyses, statistical evaluations, figures, and numerical results reported in the manuscript.
 
 ## 💻 Requirements
 
 - Python 3.10 or later.
-- Required libraries: pandas, numpy, scikit-learn, matplotlib, shap, xgboost, lightgbm.
 
----
+Required libraries:
+
+- lightgbm
+- matplotlib
+- numpy
+- pandas
+- scikit-learn
+- shap
+- xgboost
 
 ## 📬 Contact
 
-For questions regarding the repository or reproduction of the results:
+## 📬 Contact
+
+For questions regarding the repository or the reproduction of the results, please contact:
 
 Fabián Silva-Aravena
+
+Faculty of Social and Economic Sciences
 
 Universidad Católica del Maule
 
