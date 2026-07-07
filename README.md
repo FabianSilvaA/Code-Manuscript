@@ -24,11 +24,10 @@ Talca, Chile
 This repository contains all scripts required to reproduce the simulation and numerical results presented in the article.
 
 | File | Description |
-|---|---|
-| `Code-Manuscript/` | Folder containing the source code used in the manuscript. |
-| `README.md` | Description of the repository and manuscript information. |
-| `VR_Experience_Raw_Data.xlsx` | Raw data set. |
----
+|------|-------------|
+| `Code-Manuscript/` | Contains all Python scripts implementing data preprocessing, machine learning models, explainable AI analyses, statistical validation, and generation of tables and figures presented in the manuscript. |
+| `README.md` | Repository description and instructions for reproducing the study. |
+| `VR_Experience_Raw_Data.xlsx` | Original dataset used throughout the experiments reported in the manuscript. |
 
 ## 📄 Required Files
 
