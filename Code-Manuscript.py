@@ -41,7 +41,7 @@ N_SPLITS = 5
 N_TRIALS = 50
 TEST_SIZE = 0.20
 
-DATA_PATH = "virtual_tourism.csv"   # Replace with the real dataset file
+DATA_PATH = "../VR_Experience_Raw_Data.xlsx"   # Replace with the real dataset file
 TARGET_COL = "INT1"
 REDUNDANT_INT_COLS = ["INT2", "INT3", "INT4"]
 
