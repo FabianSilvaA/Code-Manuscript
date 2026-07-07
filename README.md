@@ -25,9 +25,9 @@ This repository contains all scripts required to reproduce the simulation and nu
 
 | File | Description |
 |------|-------------|
-| `Code-Manuscript/` | Contains all Python scripts implementing data preprocessing, machine learning models, explainable AI analyses, statistical validation, and generation of tables and figures presented in the manuscript. |
-| `README.md` | Repository description and instructions for reproducing the study. |
-| `VR_Experience_Raw_Data.xlsx` | Original dataset used throughout the experiments reported in the manuscript. |
+| `Code-Manuscript/` | Contains all source code required to reproduce the experiments, analyses, figures, and tables presented in the manuscript. |
+| `README.md` | Provides a description of the repository, manuscript information, software requirements, and instructions for reproducing the reported results. |
+| `VR_Experience_Raw_Data.xlsx` | Original dataset used as input for the computational experiments described in the manuscript. |
 
 ## 📄 Required Files
 
