@@ -1,5 +1,3 @@
-</> Markdown
-
 # An Explainable Machine Learning Framework for Predicting Travel Intention in Virtual Tourism: Evidence from Da Nang, Vietnam #
 
 **Submission ID:** 10756  
