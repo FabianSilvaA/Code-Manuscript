@@ -56,8 +56,6 @@ Required libraries:
 
 ## 📬 Contact
 
-## 📬 Contact
-
 For questions regarding the repository or the reproduction of the results, please contact:
 
 Fabián Silva-Aravena
